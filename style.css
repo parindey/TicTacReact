@@ -1,0 +1,23 @@
+
+
+.btn{
+    height: 20vh;
+    width: 30%;
+    color: red;
+    border: 1px solid black;
+    font-size: 80px;
+    background-color: aquamarine;
+    
+    
+}
+
+.row{
+    margin-top: 20px;
+    margin-left: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: 60vh;
+    flex-wrap: wrap;
+}
